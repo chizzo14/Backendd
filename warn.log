@@ -1,0 +1,131 @@
+[2021-12-28T22:18:22.544] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640740699393,"quantity":2,"producto":{"_id":"1","timestamp":1640740697560,"title":"birra","description":"Birra rubia ricasa","code":"50","thumbnail":"https://cdn1.iconfinder.com/data/icons/Drinks_by_Miniartx/256/beer_.png","price":"10","stock":"20"},"total":20}],"orderTotal":20}]
+[2021-12-28T22:21:07.703] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640740863136,"quantity":1,"producto":{"_id":"2","timestamp":1640740838379,"title":"2","description":"3","code":"4","thumbnail":"5","price":"6","stock":"7"},"total":6}]}]
+[2021-12-28T22:24:03.310] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640741040525,"quantity":1,"producto":{"_id":"1","timestamp":1640741038583,"title":"4","description":"5","code":"6","thumbnail":"7","price":"8","stock":"9"},"total":8}],"orderTotal":8}]
+[2021-12-28T22:24:49.128] [WARN] warn - Orden Agregada [{"_id":"2","productos":[{"_id":"2","timestamp":1640741078903,"quantity":2,"producto":{"_id":"2","timestamp":1640741068772,"title":"2","description":"3","code":"44gfd43","thumbnail":"5","price":"6","stock":"3"},"total":12}]}]
+[2021-12-29T21:08:24.067] [WARN] warn - Orden Agregada [{"_id":"3","productos":[{"_id":"4","timestamp":1640822897562,"quantity":1,"producto":{"_id":"2","timestamp":1640741068772,"title":"2","description":"3","code":"44gfd43","thumbnail":"5","price":"6","stock":"3"},"total":6}]}]
+[2021-12-29T21:09:27.677] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640822957381,"quantity":2,"producto":{"_id":"1","timestamp":1640822955911,"title":"1","description":"2","code":"3","thumbnail":"https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png","price":"4","stock":"5"},"total":8}],"orderTotal":8}]
+[2021-12-29T21:10:42.194] [WARN] warn - Orden Agregada [{"_id":"2","productos":[{"_id":"2","timestamp":1640823023642,"quantity":1,"producto":{"_id":"1","timestamp":1640822955911,"title":"1","description":"2","code":"3","thumbnail":"https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png","price":"4","stock":"5"},"total":4}],"orderTotal":4}]
+[2021-12-29T21:13:25.909] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640823188266,"quantity":1,"producto":{"_id":"2","timestamp":1640823177861,"title":"1","description":"2","code":"3","thumbnail":"https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png","price":"4","stock":"5"},"total":4}],"orderTotal":4}]
+[2021-12-29T21:15:37.339] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640823312362,"quantity":2,"producto":{"_id":"1","timestamp":1640823310254,"title":"1","description":"2","code":"3","thumbnail":"https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png","price":"5","stock":"5"},"total":10}],"orderTotal":10}]
+[2021-12-29T21:19:08.898] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640823542326,"quantity":3,"producto":{"_id":"1","timestamp":1640823540529,"title":"1","description":"2","code":"3","thumbnail":"https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png","price":"4","stock":"5"},"total":12}],"orderTotal":12}]
+[2021-12-29T21:20:56.764] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1640823624675,"quantity":2,"producto":{"_id":"1","timestamp":1640823622187,"title":"1","description":"2","code":"3","thumbnail":"https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png","price":"4","stock":"5"},"total":8}],"orderTotal":8}]
+[2021-12-31T19:24:11.974] [WARN] warn - Orden Agregada [{"_id":"61cf830b0ab3e63266de4b2f","productos":[{"quantity":1,"producto":{"title":"Cafe negro","code":"kd34F$9z","price":120,"stock":100},"total":120}],"orderTotal":120}]
+[2021-12-31T19:24:33.411] [WARN] warn - Orden Agregada [{"_id":"61cf83210ab3e63266de4b46","productos":[{"quantity":1,"producto":{"title":"Cafe negro","code":"kd34F$9z","price":120,"stock":100},"total":120},{"quantity":1,"producto":{"title":"Fried chicken","code":"q763dfñ0","price":650,"stock":100},"total":650}],"orderTotal":770}]
+[2021-12-31T19:24:45.180] [WARN] warn - Orden Agregada [{"_id":"61cf832d0ab3e63266de4b56","productos":[{"quantity":1,"producto":{"title":"Papas fritas","code":"a3268bff","price":200,"stock":50},"total":200}],"orderTotal":200}]
+[2021-12-31T19:25:51.040] [WARN] warn - Orden Agregada [{"_id":"61cf836ec851756171cc0abc","productos":[{"quantity":2,"producto":{"title":"Cafe negro","code":"kd34F$9z","price":120,"stock":100},"total":240}],"orderTotal":240}]
+[2021-12-31T19:28:37.149] [WARN] warn - Orden Agregada [{"_id":"61cf8415c851756171cc0ad3","productos":[{"quantity":1,"producto":{"title":"Cafe negro","code":"kd34F$9z","price":120,"stock":100},"total":120}],"orderTotal":120}]
+[2021-12-31T19:30:29.556] [WARN] warn - Orden Agregada [{"_id":"61cf848550cb01b7aeae5771","productos":[{"quantity":2,"producto":{"title":"Fried chicken","code":"q763dfñ0","price":650,"stock":100},"total":1300},{"quantity":5,"producto":{"title":"Cafe negro","code":"kd34F$9z","price":120,"stock":100},"total":600}],"orderTotal":1900}]
+[2021-12-31T19:30:50.554] [WARN] warn - Orden Agregada [{"_id":"61cf849a50cb01b7aeae579a","productos":[{"quantity":3,"producto":{"title":"Papas fritas","code":"a3268bff","price":200,"stock":50},"total":600}],"orderTotal":600}]
+[2022-01-06T21:25:10.189] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 849,
+  messageTime: 320,
+  messageSize: 890,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYdeIZxq9DBfCj.AhAAAAigDTw--Iv.Z9CkROHhYPCAw]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<b60f225f-e55d-0d9a-b8cc-a1f1efdaaed9@GUILLE_PC>'
+}
+[2022-01-06T21:38:45.367] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 850,
+  messageTime: 313,
+  messageSize: 889,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYdeLlhq9DBfCj.CcAAAAi2cz2UK3cg1DHxjv616kBhI]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<baf1f9de-e6f7-5ffb-3b32-5b016db0fddc@GUILLE_PC>'
+}
+[2022-01-06T21:38:58.989] [WARN] warn - Orden Agregada [{"_id":"61d78ba2e4782ebd88b8b6d3","productos":[{"quantity":1,"producto":{"title":"Pinta","code":"7as5Mdf3","price":210,"stock":450},"total":210},{"quantity":1,"producto":{"title":"Hamburguesa","code":"2ad3s487","price":385,"stock":150},"total":385}],"orderTotal":595}]
+[2022-01-10T22:14:13.084] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1641863647519,"quantity":2,"producto":{"_id":"1","title":"Birra","description":"Birra rubia ricasa","code":"bra001","thumbnail":"https://cdn1.iconfinder.com/data/icons/Drinks_by_Miniartx/256/beer_.png","price":"350","stock":"39"},"total":700}],"orderTotal":700}]
+[2022-01-10T22:14:51.902] [WARN] warn - Orden Agregada [{"_id":"2","productos":[{"_id":"2","timestamp":1641863688292,"quantity":2,"producto":{"_id":"1","title":"Birra","description":"Birra rubia ricasa","code":"bra001","thumbnail":"https://cdn1.iconfinder.com/data/icons/Drinks_by_Miniartx/256/beer_.png","price":"350","stock":"39"},"total":700}],"orderTotal":700}]
+[2022-01-12T21:21:24.026] [WARN] warn - Orden Agregada [{"_id":"1","productos":[{"_id":"1","timestamp":1642033277080,"quantity":1,"producto":{"_id":"1","title":"1","description":"1","code":"1","thumbnail":"https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png","price":"1","stock":"1"},"total":1}]}]
+[2022-01-16T16:51:13.017] [WARN] warn - [
+  {
+    _id: '1',
+    fyh: '16/1/2022 16:51:13',
+    orderTotal: '40 $',
+    adminOrder: [ [Object], [Object] ],
+    clientOrder: [ [Object], [Object] ]
+  }
+]
+[2022-01-23T14:37:17.059] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 819,
+  messageTime: 302,
+  messageSize: 884,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYe2STQrgaBfSMzfpAAAA6QkbBFSy-t93u.5TqaC7yus]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<e84b5295-da28-8ee9-0b28-db45128f3609@GUILLE_PC>'
+}
+[2022-01-23T14:52:58.612] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 812,
+  messageTime: 320,
+  messageSize: 896,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYe2V-xq9DBfCnVxKAAAA6oJ1J3SFgSD.0Wbi5b4Y-UM]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<40607055-78f4-b057-1366-40ca94070f80@GUILLE_PC>'
+}
+[2022-01-23T14:54:03.493] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 834,
+  messageTime: 312,
+  messageSize: 873,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYe2WPK0J5BfFk4v2AAAA62.zRPAoMKJcN08-TPxK48c]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<319b4dd5-c95f-f63d-680c-e31a69e5222a@GUILLE_PC>'
+}
+[2022-01-23T14:55:42.201] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 805,
+  messageTime: 304,
+  messageSize: 867,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYe2WnkQ0ARfgu785AAAA7KMwDvYeX0QUsa.WfsDByok]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<ddc901e7-4a64-adf3-29f8-ea69b86cfb8e@GUILLE_PC>'
+}
+[2022-01-23T15:00:50.700] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 852,
+  messageTime: 315,
+  messageSize: 865,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYe2X0wrgaBfSM0IQAAAA7S3YDG8nWdGPI.1VLACLuH8]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<6fbe04ae-0152-acef-851f-8db8e5fcfbfa@GUILLE_PC>'
+}
+[2022-01-26T22:47:40.543] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 815,
+  messageTime: 298,
+  messageSize: 878,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYfH5vBq9DBfCpS0kAAABEULc8LWV.IJv6ZWL27FHDwQ]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<9a320502-473d-f62b-e3a0-07d41e4dfbef@GUILLE_PC>'
+}
+[2022-01-27T18:37:09.849] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 817,
+  messageTime: 335,
+  messageSize: 868,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYfMQh58Bhxfq1kfNAAABGY-rekl3zYyHqumzjv2Fk5c]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<f22998ea-1335-badf-c13a-672d1f26ec36@GUILLE_PC>'
+}
+[2022-01-27T18:38:40.313] [WARN] warn - {
+  accepted: [ 'guillelf@gmail.com' ],
+  rejected: [],
+  envelopeTime: 855,
+  messageTime: 307,
+  messageSize: 878,
+  response: '250 Accepted [STATUS=new MSGID=YZvPNVRmZgO2J-EaYfMQ4UQ0ARfgxCZCAAABGpJax-75uNZgt15TX39yag0]',
+  envelope: { from: '', to: [ 'guillelf@gmail.com' ] },
+  messageId: '<b2a90913-840d-f03f-f76b-cd54ee53d8d6@GUILLE_PC>'
+}
